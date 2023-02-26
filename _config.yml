@@ -23,8 +23,8 @@ author: Yosi Leyid
 email: yosi@hasidic.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Bootstrap Starter theme for jekyll by Yosi Leyid
-baseurl: "/jekyll-bootstrap-starter" # the subpath of your site, e.g. /blog
-url: "https://yosileyid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bootstrap" # the subpath of your site, e.g. /blog
+url: "https://smokeyoy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hasidicdevs
 github_username:  yosileyid
 
